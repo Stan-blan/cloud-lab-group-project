@@ -1,6 +1,6 @@
 # Cloud Innovators — Static Website Deployment
 
-> A Cloud Computing Practical Lab 1 project — built, versioned, and deployed live on GitHub Pages.
+> A Cloud Computing Practical project — built, versioned, and deployed live on GitHub Pages.
 
 ---
 
